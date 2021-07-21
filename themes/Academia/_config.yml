@@ -3,7 +3,7 @@ favicon: /img/gorilla.svg
 avatar: /img/profile.png
 # if author sets in hexo_config, this string doesn't work
 author: 'Xingzi Yu'
-author_bio: "Struggle to survive"
+author_bio: "Struggle to survive @"
 
 since: 2020
 
