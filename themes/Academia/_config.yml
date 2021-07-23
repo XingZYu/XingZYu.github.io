@@ -2,8 +2,8 @@ favicon: /img/gorilla.svg
 # Change to your profile picture
 avatar: /img/profile.png
 # if author sets in hexo_config, this string doesn't work
-author: 'Xingzi Yu'
-author_bio: "Struggle to survive @"
+author: 'XingZYu824'
+author_bio: 'Struggle to survive @CS'
 
 since: 2020
 
@@ -26,14 +26,14 @@ social:
   enable: true
 social_links:
   fab fa-twitter: https://twitter.com/XingZYU
-  fab fa-facebook-square: https://www,facebook.com/xingzi.yu.5
+  fab fa-facebook-square: https://www.facebook.com/xingzi.yu.5
   fab fa-github: https://github.com/edittriendl
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
   fab fa-weibo: https://weibo.com/u/5285135513?is_all=1
   # fab fa-weixin: /
   # fab fa-qq: /
-  fas fa-envelope: edittriendlyu@gmail.com
+  fas fa-envelope: mailto:edittriendlyu@gmail.com
   # fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
