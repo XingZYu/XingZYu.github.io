@@ -1,4 +1,43 @@
 #page_footer {
   position: absolute;
-  bottom: 0;
+  height: 60px;
+  width: 100%;
+}
+body {
+  overflow: auto;
+  height: 100%;
+}
+.page {
+  min-height: 100vh;
+}
+.publication-section {
+  margin: 3rem 0;
+}
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+.publication-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+.publication-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.publication-authors {
+  color: #555;
+  margin: 0.5rem 0;
+}
+.publication-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+.publication-link {
+  color: #06c;
+  text-decoration: none;
+  margin-left: 1rem;
 }
