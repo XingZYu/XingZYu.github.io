@@ -63,6 +63,7 @@ box_shadow:
 CDN_USE:
   css:
     - /css/index.css
+    - /css/user.css
 #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
