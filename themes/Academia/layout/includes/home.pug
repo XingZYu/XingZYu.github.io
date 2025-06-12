@@ -1,0 +1,22 @@
+//- themes/your-theme-name/layout/home.pug
+
+//- This extends the base layout to get the header, footer, etc.
+//- The name of the base layout might be 'layout.pug' or something similar.
+//- Look for what your other page layouts extend.
+//- If your page.pug doesn't use 'extends', just copy its content.
+
+extends ./layout.pug
+
+block content
+  //- The side card from your main layout
+  include ./side-card.pug 
+
+  article.page-content
+    //- This renders the Markdown content from your source/index.md file
+    != page.content
+
+    //- Now, add your custom publications section using Pug syntax
+    section.publications
+      h1 Publications
+      //- This is the correct Pug syntax to call a helper and output unescaped HTML
+      != pubs()

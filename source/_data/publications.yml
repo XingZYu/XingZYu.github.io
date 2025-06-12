@@ -1,0 +1,15 @@
+- title: "Enhancing embedded systems development with TS<sup>-</sup>"
+  authors: "John Doe, Jane Smith"
+  venue: "Proceedings of the International Conference on Systems (SYSCON '23)"
+  year: 2023
+  links:
+    - text: "PDF"
+      url: "https://example.com/paper.pdf"
+    - text: "DOI"
+      url: "https://doi.org/xxx"
+  highlight: true # Optional mark for key publications
+
+- title: "Another Publication"
+  authors: "Jane Smith et al."
+  venue: "Journal of Systems Research"
+  year: 2022

@@ -1,9 +1,9 @@
 favicon: /img/gorilla.svg
 # Change to your profile picture
-avatar: /img/profile.png
+avatar: /img/profile1.png
 # if author sets in hexo_config, this string doesn't work
-author: 'XingZYu824'
-author_bio: 'Struggle to survive @CS'
+author: 'Xingi Yu'
+author_bio: 'Hello World'
 
 since: 2020
 
@@ -11,7 +11,7 @@ since: 2020
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
-  # Publications: /#Publications
+  Publications: /#Publications
   About: /
   # Blog: /blog
 
@@ -25,12 +25,12 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: https://twitter.com/XingZYU
+  # fab fa-twitter: https://twitter.com/XingZYU
   fab fa-facebook-square: https://www.facebook.com/xingzi.yu.5
-  fab fa-github: https://github.com/edittriendl
+  fab fa-github: https://github.com/XingZYu
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
-  fab fa-weibo: https://weibo.com/u/5285135513?is_all=1
+  # fab fa-weibo: https://weibo.com/u/5285135513?is_all=1
   # fab fa-weixin: /
   # fab fa-qq: /
   fas fa-envelope: mailto:edittriendlyu@gmail.com
@@ -48,9 +48,9 @@ e_social_links:
 
 # CV download link
 cv_dl:
-  enable: false
-  dir: /attaches/CV.pdf
-  description: My Detail CV.
+  enable: true
+  dir: /attaches/cv.pdf
+  description: CV
 
 # Box-shadow
 # display box-shadow on page or not

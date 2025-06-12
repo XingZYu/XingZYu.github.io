@@ -29,6 +29,8 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
+data:
+  publications: source/_data/publications.yml
 skip_render:
 
 # Writing
@@ -105,6 +107,5 @@ theme: Academia
 deploy:
   type: git
   repo: 
-    github: https://github.com/edittriendl/edittriendl.github.io
+    github: https://github.com/XingZYu/XingZYu.github.io
   branch: master
-
